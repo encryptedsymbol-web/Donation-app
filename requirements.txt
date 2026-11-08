@@ -1,5 +1,0 @@
-streamlit>=1.40
-supabase>=2.9
-reportlab>=4.0
-pandas
-Pillow
